@@ -1,0 +1,18 @@
+ephelele x;
+ephelele i;
+ephelele a;
+ephelele y;
+funda x;
+y = x * 2;
+okwe i phakathi 1 kuze 10 yenza
+   uma y > 10 bese
+     ukubhala "passou de 10";
+   ukuphelauma
+ukuphelaku
+uma a > 5 bese
+   ukubhala a;
+ukuphelauma
+uma a = 3 bese
+   ukubhala a;
+ukuphelauma
+buyela 0;

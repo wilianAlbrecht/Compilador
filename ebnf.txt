@@ -1,0 +1,14 @@
+<char> := a..z
+<var> := <char>0..9
+<type> := d | f | s | c
+<op.arit> := + | - | * | / 
+<numero> := 0..9
+<varnum> := <var> | <num>
+ephelele <var>;
+funda <var>;
+<var> = <varnum> <op.arit> <varnum>;
+ukubhala <var>;
+okwe <var> phakathi <num> kuze <num> yenza
+ukuphelaku
+uma <var> <op.rel> <num> bese
+ukuphelauma

@@ -1,0 +1,19 @@
+ler  funda
+imprimir ukubhala
+para okwe
+fimpara ukuphelaku
+de phakathi
+ate kuze
+faca yenza
+se uma
+entao bese
+senao uma kungenjalo
+fimse ukuphelauma
+inteiro ephelele
+texto umbhalo
+real okwangempela
+logico okunengqondo
+e Ikona
+ou noma
+nao cha
+retorne buyela

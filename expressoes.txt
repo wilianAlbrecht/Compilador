@@ -1,0 +1,10 @@
+^ephelele [a-z][a-z0-9]{0,9};$
+^funda [a-z][a-z0-9]{0,9};$
+^ukubhala [a-z][a-z0-9]{0,9};$
+[a-z][a-z0-9]{0,9} = ([a-z][a-z0-9]{0,9}|[0-9]{1,10}) [\+,\-,\/,\*] ([a-z][a-z0-9]{0,9}|[0-9]{1,10});
+okwe [a-z][a-z0-9]{0,9} phakathi [0-9]{1,10} kuze [0-9]{1,10} yenza
+uma [a-z][a-z0-9]{0,9} [\>,\<,\=,\!] [0-9]{1,10} bese
+^ukuphelauma$
+^ukuphelaku$
+^ukubhala \"[0-9a-z\s]{1,50}\";
+^buyela [0-9]{1,3};$
