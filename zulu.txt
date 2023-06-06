@@ -7,7 +7,7 @@ ate kuze
 faca yenza
 se uma
 entao bese
-senao uma kungenjalo
+senao umakungenjalo
 fimse ukuphelauma
 inteiro ephelele
 texto umbhalo

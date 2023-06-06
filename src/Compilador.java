@@ -46,6 +46,7 @@ public class Compilador {
 			semantico.Analisar(linha, dicionario);
 		}
 		System.out.println("Fim da analise semantica");
+		System.out.println("\n\n\n");
 
 		
 		String byteCode = "";
