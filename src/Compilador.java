@@ -47,6 +47,7 @@ public class Compilador {
 		}
 		System.out.println("Fim da analise semantica");
 
+		
 		String byteCode = "";
 		GeradorByteCode gerador = new GeradorByteCode();
 		byteCode += "Scanner teclado = new Scanner(System.in);\n";
@@ -55,7 +56,7 @@ public class Compilador {
 		{
 			linha = exemplo.get(i);
 			byteCode += gerador.gerar(linha)+"\n";
-			System.out.print(byteCode);
 		}
+		System.out.print(byteCode);
 	}
 }
